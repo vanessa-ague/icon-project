@@ -50,8 +50,6 @@ figcaption {
 
 .col {
     display: flex;
-    max-width: 600px;
-    min-width: 100px;
     background-color: #BFACB5;
     border-style: solid;
     border-color: #7F7B82;
